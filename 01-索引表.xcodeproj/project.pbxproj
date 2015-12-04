@@ -14,6 +14,7 @@
 		CCA9BB121C11263900870799 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCA9BB111C11263900870799 /* Images.xcassets */; };
 		CCA9BB151C11263900870799 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CCA9BB131C11263900870799 /* LaunchScreen.xib */; };
 		CCA9BB211C11263900870799 /* _1____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = CCA9BB201C11263900870799 /* _1____Tests.m */; };
+		CCA9BB2B1C11275B00870799 /* sortednames.plist in Resources */ = {isa = PBXBuildFile; fileRef = CCA9BB2A1C11275B00870799 /* sortednames.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		CCA9BB1A1C11263900870799 /* 01-索引表Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "01-索引表Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCA9BB1F1C11263900870799 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CCA9BB201C11263900870799 /* _1____Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_1____Tests.m"; sourceTree = "<group>"; };
+		CCA9BB2A1C11275B00870799 /* sortednames.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = sortednames.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		CCA9BB041C11263900870799 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CCA9BB2A1C11275B00870799 /* sortednames.plist */,
 				CCA9BB051C11263900870799 /* Info.plist */,
 				CCA9BB061C11263900870799 /* main.m */,
 			);
@@ -199,6 +202,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CCA9BB2B1C11275B00870799 /* sortednames.plist in Resources */,
 				CCA9BB101C11263900870799 /* Main.storyboard in Resources */,
 				CCA9BB151C11263900870799 /* LaunchScreen.xib in Resources */,
 				CCA9BB121C11263900870799 /* Images.xcassets in Resources */,
